@@ -6,5 +6,5 @@ This is a repository for the single page website - Jarvis, the Driverless Car, d
 * Font Awesome
 * Google Fonts
 
-# Screenshot
-![Here is a screenshot of what it looks like](screencapture.PNG)
+# Screen Capture
+![Here is a screenshot of what it looks like](screencapture.png)
